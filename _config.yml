@@ -5,6 +5,6 @@ description: >-
 baseurl: ""
 url: "https://www.victorszoltysek.com" # the base hostname & protocol for your site
 theme: minima
-linkedin_url: https://www.linkedin.com/in/victorszoltysek/
 github_username:  vicsz
 slideshare_url: https://www.slideshare.net/VictorSzoltysek
+linkedin_url: https://www.linkedin.com/in/victorszoltysek/
