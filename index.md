@@ -1,7 +1,3 @@
----
-title: Victor Szoltysek - Home
----
-
 <div class="container">
     <h1>Welcome!</h1>
     <p>I'm Victor Szoltysek, a Principal Consultant deeply involved in reshaping software development practices. I’ve spent years working in various tech roles, always focusing on making development teams more effective, not just efficient. I advocate for Lean methodologies and thinking from First Principles to eliminate waste and streamline processes.</p>
