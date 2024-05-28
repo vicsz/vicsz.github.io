@@ -1,7 +1,7 @@
-title: My Awesome Site
-email: my-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  This is my awesome blog using Beautiful Jekyll.
+title: Victor Szoltysek
+email: victor_szoltysek@me.com
+description: >- 
+  Bits of code and pieces of my mind.
 baseurl: ""
 url: "https://www.victorszoltysek.com" # the base hostname & protocol for your site
 theme: minima
