@@ -6,7 +6,7 @@ baseurl: ""
 url: "https://www.victorszoltysek.com" # the base hostname & protocol for your site
 remote_theme: jekyll/minima
 plugins:
-  - jekyll-remote-theme
+- jekyll-remote-theme
 github_username:  vicsz
 linkedin_username: victorszoltysek
 slideshare_username: VictorSzoltysek
