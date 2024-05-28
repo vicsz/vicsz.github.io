@@ -4,7 +4,7 @@ description: >-
   Bits of code and pieces of my mind.
 baseurl: ""
 url: "https://www.victorszoltysek.com" # the base hostname & protocol for your site
-remote_theme: minima/minima
+remote_theme: jekyll/minima
 plugins:
 - jekyll-remote-theme
 github_username:  vicsz
