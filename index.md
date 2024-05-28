@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Victor Szoltysek - Home
 ---
 
