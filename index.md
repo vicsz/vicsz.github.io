@@ -107,7 +107,14 @@
         Standup Comedy - Too much change management
       </a>
     </li>
+    <li>
+      <a href="https://www.linkedin.com/posts/activity-7428059191988404224-Oz0F">
+        AI Slop Monster - archenemy of the Enforcer
+      </a>
+    </li>
   </ul>
+
+  
 
   <h2>Talks &amp; slides</h2>
 
@@ -116,8 +123,5 @@
     speaker. You can find selected talks and presentations on
     <a href="https://www.slideshare.net/VictorSzoltysek">SlideShare</a>.
   </p>
-
-  <p>
-    <a href="https://www.linkedin.com/in/victorszoltysek/">Connect on LinkedIn</a>.
-  </p>
+  
 </div>
