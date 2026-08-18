@@ -79,7 +79,7 @@
     </li>
     <li>
       <a href="https://www.linkedin.com/posts/activity-7417167643377328129-dA1x">
-        Building teams people want to join
+        Building teams people want to join - and corporate buzzword bingo
       </a>
     </li>
     <li>
@@ -89,22 +89,22 @@
     </li>
     <li>
       <a href="https://www.linkedin.com/posts/activity-7446874368019714048-wQ2e">
-        More experiments and field notes
+         The Rubber Stamp Golem vs. The AWS Cloud Enforcer
       </a>
     </li>
     <li>
       <a href="https://www.linkedin.com/posts/activity-7420435155393167360-upCf">
-        Software lessons in unexpected places
+        Behold the ADR
       </a>
     </li>
     <li>
       <a href="https://www.linkedin.com/posts/activity-7421175468571213825-Q8dw">
-        AI work slop
+        AI Work Slop - Kids Infomercial
       </a>
     </li>
     <li>
       <a href="https://www.linkedin.com/posts/activity-7439989055196553216-q9A9">
-        Too much change management
+        Standup Comedy - Too much change management
       </a>
     </li>
   </ul>
